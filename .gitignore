@@ -1,0 +1,16 @@
+node_modules
+main.js
+.test-build
+data.json
+.DS_Store
+*.log
+
+# 本地临时目录：打包脚本、验证沙盒（含几十 MB 依赖），不进仓库
+.tmp/
+
+# 本地打出来的安装包：走 GitHub Release 分发，不提交
+*.zip
+
+dist/
+
+dist/
