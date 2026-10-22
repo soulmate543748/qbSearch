@@ -18,17 +18,10 @@
 *   **记住上次搜索词**：打开即恢复上次查询。
 *   **渲染 Markdown**：自由开关结果摘要的渲染效果。
 
-## 📸 界面预览
-
-<img width="798" height="803" alt="设置界面" src="https://github.com/user-attachments/assets/276ce70a-ab3f-42e2-9337-56343b672558" />
-<img width="964" height="282" alt="全屏" src="https://github.com/user-attachments/assets/38f37471-76df-4377-9efc-b22d64d1b759" />
-<img width="390" height="588" alt="侧边栏" src="https://github.com/user-attachments/assets/2c8d8c8f-a7ce-4687-8062-ff58bc60090e" />
-
-
 ## 📦 安装方法
 
 1. 打开 Obsidian 设置 -> 第三方插件 -> 关闭安全模式。
-2. 
+2. BRAT: `Add a beta plugin` → 输入 `soulmate543748/qbsearch`
 3. 或者，从 Releases 页面下载最新版本的 `main.js`, `manifest.json`, `styles.css`，放入你的 `.obsidian/plugins/qbsearch` 文件夹中，重启 Obsidian 并启用。
 
 ## 🤝 反馈与贡献
